@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22A7F0&height=120&section=header"/>
-<h2 align="center" style="color: #e83d84;">Welcome! Most languages used</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=header"/>
+<h2 align="center" style="color: #7b2cbf;">Welcome! Most languages used</h2>
 <div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emili+Spricigo;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
